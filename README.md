@@ -14,13 +14,6 @@ A simple yet intelligent **Q&A chatbot** built with **Streamlit** and **BERT** (
 
 ---
 
-## 🚀 Live Demo
-
-> Deployed on [Streamlit Community Cloud](https://streamlit.io/cloud)  
-> 🔗 **[Try it here](#)** *(Add your deployed link later)*
-
----
-
 ## 📦 Tech Stack
 
 | Technology         | Purpose |
